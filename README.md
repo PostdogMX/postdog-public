@@ -19,5 +19,5 @@ Postdog - Mexican shipping aggregator platform
 Based in Reynosa, Tamaulipas, México.
 
 ## 📬 Contact
-- Email: postdogmx@gmail.com
-- Instagram: @postdog_mx
+- Email: contact@postdog.com.mx
+- Instagram: @postdog_
